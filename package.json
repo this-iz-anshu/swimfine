@@ -2,9 +2,9 @@
   "name": "src",
   "version": "1.0.0",
   "description": "",
-  "main": "routes.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node src/routes.js",
+    "start": "node src/app.js",
     "dev": "nodemon src/add.js"
   },
   "keywords": [],
